@@ -6,7 +6,7 @@ To set up this project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/solar-challenge-week1.git
+git clone https://github.com/lhiwi/solar-challenge-week1.git
 cd solar-challenge-week1
 
 # Set up virtual environment
@@ -15,8 +15,10 @@ python -m venv venv
 
 # Install dependencies
 pip install -r requirements.txt
+```
 
-Folder structure 
+Folder structure
+```
 solar-challenge-week1/
 │
 ├── .vscode/
@@ -37,3 +39,4 @@ solar-challenge-week1/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+```
