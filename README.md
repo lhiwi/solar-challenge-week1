@@ -16,6 +16,7 @@ python -m venv venv
 # Install dependencies
 pip install -r requirements.txt
 
+Folder structure 
 solar-challenge-week1/
 │
 ├── .vscode/
